@@ -184,8 +184,8 @@ nav ul li:hover{
 
 
 .pic1{
-    height: 500px;
-    width: 400px;
+    height: 450px;
+    width: 350px;
     margin-top: -3rem;
 }
 
@@ -247,8 +247,9 @@ nav ul li:hover{
     color: rgb(168, 143, 147);
 }
 
+
 input{
-    width: 18rem;
+    width: 15rem;
     margin-left: -3rem;
     height: 2.5rem;
     border-radius: 30px;
